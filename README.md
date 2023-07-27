@@ -55,13 +55,6 @@
 
 <hr>
 
-### 🎯🎯 My Badges :
-
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19&w=1920&q=75" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
-
-<hr>
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=porkalai35&theme=dark)](https://git.io/streak-stats)
