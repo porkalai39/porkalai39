@@ -46,7 +46,7 @@
 <hr>
 
 
-### 🎯🎯 HacktoberFest 2022 Badges :
+### 🎯🎯 HacktoberFest 2023 Badges :
 
 
 <img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title="NodeJS" alt="NodeJS" width="150" height="100"/>&nbsp;
