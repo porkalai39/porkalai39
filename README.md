@@ -23,7 +23,7 @@
 
 
 - 🔭 Open Source Contributor👩‍💻
-- 🐋 Cloud & DevOps enthusiastic🐋
+- 🐋 Tech enthusiastic🐋
 - 👯 I’m looking to collaborate with Developers👩‍💻
 - 📫 How to reach me: porkalaiselvi@outlook.com
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT
