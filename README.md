@@ -20,9 +20,9 @@
 
 
 - 🔭 Open Source Contributor👩‍💻
-- 🐋 AWS Cloud Practitioner🐋
+- 🐋 DevOps Enthusiast🐋
 - 👯 I’m looking to collaborate with Developers👩‍💻
-- 📫 How to reach me: porkalaiselvi@outlook.com
+- 📫 How to reach me: itporkalaiselvi485@gmail.com
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT
 <hr>
 
@@ -37,8 +37,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
-     <img src="https://www.clipartmax.com/png/middle/195-1955494_aws-simple-icons-aws-cloud-aws-cloud.png" title="AWS" alt="AWS" width="60" height="40"/>
+   <img src=" https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 <hr>
 
