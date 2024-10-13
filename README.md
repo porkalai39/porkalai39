@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="maven" alt="maven" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="sonarqube" alt="sonarqube" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg" title="sonarqube" alt="sonarqube" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy" alt="groovy" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="50" height="50"/>
   
