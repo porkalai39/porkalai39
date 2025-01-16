@@ -19,7 +19,6 @@
 ### :girl: About Me :
 
 
-- Gen AI 🔥
 - 🔭 Open Source Contributor👩‍💻
 - 👯 I’m looking to collaborate with Developers👩‍💻
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
