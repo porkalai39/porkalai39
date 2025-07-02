@@ -49,7 +49,8 @@
 ### 🎯🎯 HacktoberFest 2023 Badges :
 
 
-<img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title="NodeJS" alt="NodeJS" width="150" height="100"/>&nbsp;
+<img src="https://www.credly.com/earner/earned/badge/6d743e2b-22f0-4135-9178-815a1ce00ff0" title="AWS CP" alt="AWS CP" width="150" height="100"/>&nbsp;
+
 [![An image of @porkalai39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/porkalai39)](https://holopin.io/@porkalai39)
 
 <hr>
