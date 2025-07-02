@@ -49,7 +49,7 @@
 ### 🎯🎯 HacktoberFest 2023 Badges :
 
 
-<img src="https://www.credly.com/earner/earned/badge/6d743e2b-22f0-4135-9178-815a1ce00ff0" title="AWS CP" alt="AWS CP" width="150" height="100"/>&nbsp;
+<![AWS CP](https://www.credly.com/earner/earned/badge/6d743e2b-22f0-4135-9178-815a1ce00ff0)
 
 [![An image of @porkalai39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/porkalai39)](https://holopin.io/@porkalai39)
 
