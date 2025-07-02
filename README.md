@@ -48,8 +48,9 @@
 
 ### 🎯🎯 HacktoberFest 2023 Badges :
 
+![AWS](https://www.credly.com/badges/6d743e2b-22f0-4135-9178-815a1ce00ff0/public_url)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d743e2b-22f0-4135-9178-815a1ce00ff0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 [![An image of @porkalai39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/porkalai39)](https://holopin.io/@porkalai39)
 
