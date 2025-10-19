@@ -19,7 +19,7 @@
 ### :girl: About Me :
 
 
-- 🔭 Open Source Contributor👩‍💻
+- 🔭 AI Engineer & Open Source Contributor👩‍💻
 - 👯 I’m looking to collaborate with Developers👩‍💻
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT
