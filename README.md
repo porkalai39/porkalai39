@@ -49,7 +49,7 @@
 
 <hr> 
 
-### 🎯 HacktoberFest Badges :
+### 🎯 OpenSource Contribution Badges :
 
 [![An image of @porkalai39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/porkalai39)](https://holopin.io/@porkalai39)
 
